@@ -16,7 +16,7 @@ class Mozilla extends Vendor {
     );
     
     protected static $PSEUDO = array(
-        '::placeholder' => '::-moz-placeholder',
+        //'::placeholder' => '::-moz-placeholder',
     );
 }
 
